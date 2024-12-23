@@ -1,0 +1,15 @@
+.candidate-table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.candidate-table th, .candidate-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.candidate-table th {
+  background-color: #4CAF50;
+  color: white;
+}
